@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28850534-5ba7-459a-936b-fbb92c842e4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1diyTjlBxBFWczdoD0GR7bHSilF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28850534-5ba7-459a-936b-fbb92c842e4e" name="Default Changelist" comment="" />
+      <created>1592922217274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592922217274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="269" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592923402163">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="269" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.777@0.23.1280.777" timestamp="1592923402163" />
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1592923402275">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1592923402275" />
+    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1592923402275">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1592923402275" />
+    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1592923402274">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1592923402274" />
+    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1592923402275">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1592923402275" />
+    <state x="178" y="73" key="Maven.ArtifactSearchDialog" timestamp="1592923255197">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="178" y="73" key="Maven.ArtifactSearchDialog/0.23.1280.777@0.23.1280.777" timestamp="1592923255197" />
+    <state x="141" y="50" key="SettingsEditor" timestamp="1592925200284">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="141" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1592925200284" />
+    <state x="298" y="168" width="683" height="486" key="find.popup" timestamp="1592923060705">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="298" y="168" width="683" height="486" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1592923060705" />
+  </component>
+</project>

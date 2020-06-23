@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "com.yue";
+
+message Packet {
+    enum Command {
+        REQUEST = 0;
+        RESPONSE = 1;
+    }
+
+    message RouterEntry {
+        int32 dest = 1;
+        int32 nextHop = 2;
+        int32 metric = 3;
+    }
+
+    Command command = 1;
+    int32 routerId = 2;
+    repeated RouterEntry routerEntries = 3;
+}
