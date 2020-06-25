@@ -1,4 +1,5 @@
 package com.yue;
+
 /**
  * ProtoHandler
  *
@@ -24,6 +25,8 @@ public class RipHandler extends SimpleChannelInboundHandler<Rip.Packet> {
             router.sendResponse(from);
         } else if (msg.getCommand() == Rip.Packet.Command.RESPONSE) { // try update routing table
             router.updateRouteTable(from, msg.getRouterEntriesList());
+        } else if (msg.getCommand() == Rip.Packet.Command.DISCONNECT) { // simulating disconnection
+            router.disconnect(from);
         }
     }
 }

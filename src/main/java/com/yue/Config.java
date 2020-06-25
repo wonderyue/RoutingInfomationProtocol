@@ -1,4 +1,5 @@
 package com.yue;
+
 /**
  * Router
  *
@@ -11,19 +12,12 @@ public class Config {
     public class RouterConfig {
         int id;
         String ip;
-        int port;
         int[] neighbors;
-        Action[] actions;
+        Map<Integer, ACTION_TYPE> actions;
     }
 
     public enum ACTION_TYPE {
-        DISCONNECT,
-        JOIN,
-    }
-
-    public class Action {
-        ACTION_TYPE type;
-        int round;
+        DISCONNECT, JOIN,
     }
 
     int regular_timer = 30;
