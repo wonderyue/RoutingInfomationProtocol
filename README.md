@@ -27,16 +27,16 @@ The files below have to be in the same folder:
 
 ```json
 {
-    "regular_timer": 10, // query interval (seconds)
-    "shutdown_timer": 120, // auto shutdown timer (seconds)
-    "protocol_port": 5200, // udp port
+    "regular_timer": 10,
+    "shutdown_timer": 120,
+    "protocol_port": 5200,
     "routers": {
-        "1": { // router_id
-            "id": 1, // router_id
-            "ip": "ip1", // ip
-            "neighbors": [2], // router_id of neighbors
+        "1": {
+            "id": 1,
+            "ip": "ip1",
+            "neighbors": [2],
             "actions": {
-                "1": "DISCONNECT" // router_1 will disconnect with its neighbors in round 1
+                "1": "DISCONNECT"
             }
         },
         "2": {
