@@ -96,7 +96,7 @@ Below shows how metric of Destination_1 changes in each routing table.
 
 Cause the "Count To Infinity" problem.
 
-| router_2 | router_3 | router_4 | router_4 |
+| router_2 | router_3 | router_4 | router_5 |
 | -------- | -------- | -------- | -------- |
 | 1        | 2        | 3        | 4        |
 | 3        | 4        | 5        | 6        |
@@ -112,7 +112,7 @@ Cause the "Count To Infinity" problem.
 
 ### Split Horizon Mode
 
-| router_2 | router_3 | router_4 | router_4 |
+| router_2 | router_3 | router_4 | router_5 |
 | -------- | -------- | -------- | -------- |
 | 1        | 2        | 3        | 4        |
 | 16       | 2        | 3        | 4        |
@@ -124,7 +124,7 @@ Cause the "Count To Infinity" problem.
 
 ### Split Horizon wIth Poison Reverse Mode
 
-| router_2 | router_3 | router_4 | router_4 |
+| router_2 | router_3 | router_4 | router_5 |
 | -------- | -------- | -------- | -------- |
 | 1        | 2        | 3        | 4        |
 | 16       | 2        | 3        | 4        |
